@@ -4,7 +4,7 @@
 #
 Name     : mvn-ftpserver
 Version  : 1.0.0.m2
-Release  : 2
+Release  : 3
 URL      : https://github.com/apache/ftpserver/archive/1.0.0-M2.tar.gz
 Source0  : https://github.com/apache/ftpserver/archive/1.0.0-M2.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/apache/ftpserver/ftplet-api/1.0.0-M2/ftplet-api-1.0.0-M2.pom
